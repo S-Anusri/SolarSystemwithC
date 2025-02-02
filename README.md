@@ -6,6 +6,10 @@ Project for the Computer Graphics Course.
 Each planet revolves in an orbit around the Sun and has the planet surface texture wrapped around it (provided as jpg images).
 
 
+
+https://github.com/user-attachments/assets/834a8ffd-cdb1-4691-a516-97752bbcab51
+
+
 Project By:
 S. Anusri and
 M. Bhagya Sree 
